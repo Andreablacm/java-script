@@ -23,7 +23,7 @@ console.log(randomNumber);
 
 //console.log(word.includes('la'));
 
-//console.log(word.indexOf);
+//console.log(word.indexOf);;
 
 //console.log(word.startsWith('Hol'));
 
