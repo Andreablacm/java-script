@@ -36,3 +36,5 @@ const name = 'Keko';
 const age = 26;
 
 console.log(`${name} tiene ${age + 1} años `);
+
+console.log(word.toLowerCase());
